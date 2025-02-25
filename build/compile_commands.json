@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/zlk/chatroom/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zlk/chatroom/include -I/home/zlk/chatroom/include/server -I/home/zlk/chatroom/include/server/db -I/home/zlk/chatroom/include/server/model -I/home/zlk/chatroom/include/server/redis -I/home/zlk/chatroom/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/zlk/chatroom/src/server/chatserver.cpp",
+  "file": "/home/zlk/chatroom/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/zlk/chatroom/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zlk/chatroom/include -I/home/zlk/chatroom/include/server -I/home/zlk/chatroom/include/server/db -I/home/zlk/chatroom/include/server/model -I/home/zlk/chatroom/include/server/redis -I/home/zlk/chatroom/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/zlk/chatroom/src/server/chatservice.cpp",
+  "file": "/home/zlk/chatroom/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/zlk/chatroom/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zlk/chatroom/include -I/home/zlk/chatroom/include/server -I/home/zlk/chatroom/include/server/db -I/home/zlk/chatroom/include/server/model -I/home/zlk/chatroom/include/server/redis -I/home/zlk/chatroom/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/zlk/chatroom/src/server/main.cpp",
+  "file": "/home/zlk/chatroom/src/server/main.cpp"
+},
+{
+  "directory": "/home/zlk/chatroom/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zlk/chatroom/include -I/home/zlk/chatroom/include/server -I/home/zlk/chatroom/include/server/db -I/home/zlk/chatroom/include/server/model -I/home/zlk/chatroom/include/server/redis -I/home/zlk/chatroom/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/zlk/chatroom/src/server/db/db.cpp",
+  "file": "/home/zlk/chatroom/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/zlk/chatroom/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zlk/chatroom/include -I/home/zlk/chatroom/include/server -I/home/zlk/chatroom/include/server/db -I/home/zlk/chatroom/include/server/model -I/home/zlk/chatroom/include/server/redis -I/home/zlk/chatroom/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/zlk/chatroom/src/server/model/friendmodel.cpp",
+  "file": "/home/zlk/chatroom/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/zlk/chatroom/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zlk/chatroom/include -I/home/zlk/chatroom/include/server -I/home/zlk/chatroom/include/server/db -I/home/zlk/chatroom/include/server/model -I/home/zlk/chatroom/include/server/redis -I/home/zlk/chatroom/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/grouomodel.cpp.o -c /home/zlk/chatroom/src/server/model/grouomodel.cpp",
+  "file": "/home/zlk/chatroom/src/server/model/grouomodel.cpp"
+},
+{
+  "directory": "/home/zlk/chatroom/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zlk/chatroom/include -I/home/zlk/chatroom/include/server -I/home/zlk/chatroom/include/server/db -I/home/zlk/chatroom/include/server/model -I/home/zlk/chatroom/include/server/redis -I/home/zlk/chatroom/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/zlk/chatroom/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/zlk/chatroom/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/zlk/chatroom/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zlk/chatroom/include -I/home/zlk/chatroom/include/server -I/home/zlk/chatroom/include/server/db -I/home/zlk/chatroom/include/server/model -I/home/zlk/chatroom/include/server/redis -I/home/zlk/chatroom/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/zlk/chatroom/src/server/model/usermodel.cpp",
+  "file": "/home/zlk/chatroom/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/zlk/chatroom/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zlk/chatroom/include -I/home/zlk/chatroom/include/server -I/home/zlk/chatroom/include/server/db -I/home/zlk/chatroom/include/server/model -I/home/zlk/chatroom/include/server/redis -I/home/zlk/chatroom/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/zlk/chatroom/src/server/redis/redis.cpp",
+  "file": "/home/zlk/chatroom/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/zlk/chatroom/build/src/client",
+  "command": "/usr/bin/g++   -I/home/zlk/chatroom/include -I/home/zlk/chatroom/include/server -I/home/zlk/chatroom/include/server/db -I/home/zlk/chatroom/include/server/model -I/home/zlk/chatroom/include/server/redis -I/home/zlk/chatroom/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/zlk/chatroom/src/client/main.cpp",
+  "file": "/home/zlk/chatroom/src/client/main.cpp"
+}
+]

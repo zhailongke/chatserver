@@ -1,0 +1,3 @@
+/home/zlk/chatroom/testmuduo/CMakeFiles/rebuild_cache.dir
+/home/zlk/chatroom/testmuduo/CMakeFiles/server.dir
+/home/zlk/chatroom/testmuduo/CMakeFiles/edit_cache.dir
