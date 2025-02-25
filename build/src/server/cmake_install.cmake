@@ -1,4 +1,4 @@
-# Install script for directory: /home/zlk/chatroom/src/server
+# Install script for directory: /home/zlk/chatserver/src/server
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

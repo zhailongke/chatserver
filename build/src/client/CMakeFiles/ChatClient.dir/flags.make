@@ -6,5 +6,5 @@ CXX_FLAGS = -g -g
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/zlk/chatroom/include -I/home/zlk/chatroom/include/server -I/home/zlk/chatroom/include/server/db -I/home/zlk/chatroom/include/server/model -I/home/zlk/chatroom/include/server/redis -I/home/zlk/chatroom/thirdparty 
+CXX_INCLUDES = -I/home/zlk/chatserver/include -I/home/zlk/chatserver/include/server -I/home/zlk/chatserver/include/server/db -I/home/zlk/chatserver/include/server/model -I/home/zlk/chatserver/include/server/redis -I/home/zlk/chatserver/thirdparty 
 

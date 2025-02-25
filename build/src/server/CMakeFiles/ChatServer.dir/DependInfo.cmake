@@ -4,15 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zlk/chatroom/src/server/chatserver.cpp" "/home/zlk/chatroom/build/src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o"
-  "/home/zlk/chatroom/src/server/chatservice.cpp" "/home/zlk/chatroom/build/src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o"
-  "/home/zlk/chatroom/src/server/db/db.cpp" "/home/zlk/chatroom/build/src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o"
-  "/home/zlk/chatroom/src/server/main.cpp" "/home/zlk/chatroom/build/src/server/CMakeFiles/ChatServer.dir/main.cpp.o"
-  "/home/zlk/chatroom/src/server/model/friendmodel.cpp" "/home/zlk/chatroom/build/src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o"
-  "/home/zlk/chatroom/src/server/model/grouomodel.cpp" "/home/zlk/chatroom/build/src/server/CMakeFiles/ChatServer.dir/model/grouomodel.cpp.o"
-  "/home/zlk/chatroom/src/server/model/offlinemessagemodel.cpp" "/home/zlk/chatroom/build/src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o"
-  "/home/zlk/chatroom/src/server/model/usermodel.cpp" "/home/zlk/chatroom/build/src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o"
-  "/home/zlk/chatroom/src/server/redis/redis.cpp" "/home/zlk/chatroom/build/src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o"
+  "/home/zlk/chatserver/src/server/chatserver.cpp" "/home/zlk/chatserver/build/src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o"
+  "/home/zlk/chatserver/src/server/chatservice.cpp" "/home/zlk/chatserver/build/src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o"
+  "/home/zlk/chatserver/src/server/db/db.cpp" "/home/zlk/chatserver/build/src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o"
+  "/home/zlk/chatserver/src/server/main.cpp" "/home/zlk/chatserver/build/src/server/CMakeFiles/ChatServer.dir/main.cpp.o"
+  "/home/zlk/chatserver/src/server/model/friendmodel.cpp" "/home/zlk/chatserver/build/src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o"
+  "/home/zlk/chatserver/src/server/model/grouomodel.cpp" "/home/zlk/chatserver/build/src/server/CMakeFiles/ChatServer.dir/model/grouomodel.cpp.o"
+  "/home/zlk/chatserver/src/server/model/offlinemessagemodel.cpp" "/home/zlk/chatserver/build/src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o"
+  "/home/zlk/chatserver/src/server/model/usermodel.cpp" "/home/zlk/chatserver/build/src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o"
+  "/home/zlk/chatserver/src/server/redis/redis.cpp" "/home/zlk/chatserver/build/src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
